@@ -1,6 +1,6 @@
 # 🎉 FemCoders Club - Agradecimiento por 1000 seguidores 🎉
 
-## 🎥 Video de Demostración
+## 🎥 Demostración
 
 ![GIF de Demostración](/img/FemCodersClubGif.gif)
 
@@ -70,7 +70,6 @@ Una vez enviado, revisaremos tu solicitud y la integraremos en el proyecto si es
     <img src="https://avatars.githubusercontent.com/u/116598037?v=4" alt="Elvia Benedith" alt="Elvia Benedith" width="100px">
     <img src="https://avatars.githubusercontent.com/u/126028195?v=4" alt="Irina Ichim" width="100px">
 </div>
-
 
 ## 🙏 Agradecimientos
 
